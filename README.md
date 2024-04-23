@@ -2,7 +2,7 @@
 ### Hey there! 
 
 <img src="https://github.com/kaueciglioni/FORK-readme-template/blob/main/%E2%80%94Pngtree%E2%80%94developers%20are%20coding%20programs%20on_14867886.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-/>
+
 <p align="left"> 
 ​⭐​ Bem Vindo ao Meu GitHub ​⭐​ <br><br>
 </p>
