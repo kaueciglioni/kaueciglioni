@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  🥰 No meu tempo livre, gamer, jogador de futebol, no meu dia a dia, apaixonado por T.I
+  🥰 No meu tempo livre, Gamer, Jogador de futebol, no meu dia a dia, apaixonado por T.I.
 </p>
 <br>
 
