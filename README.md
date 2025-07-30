@@ -24,6 +24,8 @@
 
 </p> 
 
+<br>
+<br>
 
 ## 🚀 Technologies and languages
 
